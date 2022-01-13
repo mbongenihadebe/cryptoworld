@@ -5,6 +5,6 @@
 ## Introduction
 Live preview can be seen here: (https://mbongenihadebe-cryptoworld.netlify.app) 
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+Site was created through React and multiple APIs powered by https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
+
