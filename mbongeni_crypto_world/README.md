@@ -3,7 +3,7 @@
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+Live preview can be seen here: (https://mbongenihadebe-cryptoworld.netlify.app) 
 
 In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
